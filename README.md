@@ -56,25 +56,3 @@ You can call me Boat, nice to meet you all. Here are some information from me to
 <a href="http://www.github.com/chrnthnkmutt"><img src="https://github-readme-stats.vercel.app/api?username=chrnthnkmutt&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chrnthnkmutt's GitHub stats" /></a>
 
 <a href="https://github.com/chrnthnkmutt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrnthnkmutt&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Sharing Links
-
-- [GDSC Talks01 - Data Visualization Apart From Jupyter](https://docs.google.com/presentation/d/1MkRYl3etove2nrKWk5e3AFp0pHekacuu2P-HGmPK4cM/edit?usp=sharing)
-
-## List of My Talks
-
-1. [Enrich Power BI with Azure Machine Learning](https://github.com/chrnthnkmutt/sharing_slides/blob/main/01_AML_PowerBI.pdf) - From Azure Developer Day 2023 at Seven Peaks Thailand
-
-2. [The Combination of AI and Kubernetes for Modern App Development](https://github.com/chrnthnkmutt/sharing_slides/blob/main/02_AI_and_K8s.pdf) - From Microsoft Ignite - After Party Thailand 2023 at SCBx Next Tech
-
-3. [Lightning Talk: Update Working Process in Microsoft Learn Student Ambassadors with Python](https://github.com/chrnthnkmutt/sharing_slides/blob/main/03_LightningTalk_PyCon23.pdf) - From PyCon 2023 At Avani Sukkhumvit
-
-4. [Lightning Talk: Data Visualization Work Showcase on both Python, SQL Database, and Power BI](https://github.com/chrnthnkmutt/sharing_slides/blob/main/04_LightningTalk_DataVizJan2024.pdf)
-
-5. [Workshop - Time Series Prediction with Kusto Query Language and Azure Data Explorer](https://github.com/chrnthnkmutt/sharing_slides/blob/main/05_globalAI_timeseries.pdf) - From Global AI bootcamp 2024 At Microsoft Thailand
-
-6. [Be Productive on Contributing Student Community and Writing a Blog Using VSCode and Medium](https://github.com/chrnthnkmutt/sharing_slides/blob/main/06_StudentSummit_BlogContrb.pdf) - From Thailand Student Developer Summit at SCBx Next Tech > The demonstration is based on [this repository](https://github.com/chrnthnkmutt/bebeyondcode)
-
-7. [Build Intelligent Apps using Azure AI Services and Machine Learning with Apache Spark](https://github.com/chrnthnkmutt/sharing_slides/blob/main/07_IntelligentApp_AzureAI.pdf) - From Global Azure Day 2024 at SCBx Next Tech > The demonstration is based on [this repository](https://github.com/Azure-Samples/Synapse/blob/main/MachineLearning/Tutorial%20-%20Cognitive%20Service.ipynb)
-
-8. [Build Intelligent Apps with Streamlit and Phi-3 SLM](https://github.com/chrnthnkmutt/sharing_slides/blob/main/08_Phi3_Streamlit.pdf) - From Python Developer Meetup at SCBx Text Tech > The demonstration is based on [this repository](https://github.com/chrnthnkmutt/phi3_experiment)
